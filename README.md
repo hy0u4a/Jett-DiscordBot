@@ -1,5 +1,5 @@
 # Jett-DiscordBot
-<p align="center">디스코드 제트봇 입니다.</p></br> </br>
+<p align="center">디스코드 제트봇 입니다.</p></br>
 <p align="center">
   <img src="https://img.shields.io/badge/Licesce-MIT-FFD400?style=flat-square&logoColor=white"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhy0u4a%2FJett-DiscordBot&count_bg=%23E11AAF&title_bg=%2396648A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>

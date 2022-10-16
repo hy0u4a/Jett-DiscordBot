@@ -1,0 +1,18 @@
+안쪽 선 투명도 / INNER LINE OPACITY
+안쪽 선 길이 / INNER LINE LENGTH
+안쪽 선 두께 / INNER LINE THICKNESS
+안쪽 선 편차 / INNER LINE OFFSET
+
+바깥쪽 선 투명도 / OUTER LINE OPACITY
+바깥쪽 선 길이 / OUTER LINE LENGTH
+바깥쪽 선 두께 / OUTER LINE THICKNESS
+바깥쪽 선 편차 / OUTER LINE OFFSET
+
+화면 중앙 도트 / CENTER DOT
+윤곽선 / OUTLINES
+윤곽선 투명도 / OUTLINE OPACITY
+윤곽선 두께 / OUTLINE THICKNESS
+
+움직임 오차 / MOVEMENT ERROR
+발사 오차 / FIRING ERROR
+조준점 색깔 / CROSSHAIR COLOR
